@@ -1,5 +1,9 @@
 # Today I Learned
 
+## WWDC21
+
+- [WWDC21](https://developer.apple.com/wwdc21/) - taking place virtually, 7-11 June.
+
 ## Swift
 
 ### Collections
