@@ -16,6 +16,12 @@
 
 - [Turns out](https://developer.apple.com/forums/thread/45251)... you can't delete CloudKit containers once created.
 
+### Tools
+
+#### Xcode
+
+- ```defaults write com.apple.dt.Xcode ShowBuildOperationDuration YES``` - Xcode displays build time, rather than local finish time
+
 ## General Purpose
 
 ### Tools
