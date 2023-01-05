@@ -6,6 +6,10 @@
 
 ## Apple Platforms
 
+### UI / UX
+
+- [Every Screen in Your App Should Be a Scrolling View](https://lickability.com/blog/every-screen-in-your-app-should-be-a-scrolling-view/) - Michael Amundsen makes the case for scrolling views.
+
 ### Collections
 
 - [Hacking With Swift](https://www.hackingwithswift.com) - Paul Husdon's resources and courses for learning swift on all platforms.
